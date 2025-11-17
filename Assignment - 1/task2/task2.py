@@ -127,6 +127,3 @@ async def main():
         
         # Update message history with new messages from this run
         message_history = result.all_messages()
-
-# if __name__ == "__main__":
-#     asyncio.run(main())
