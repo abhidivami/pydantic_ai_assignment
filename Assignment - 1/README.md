@@ -36,7 +36,7 @@ Then open your browser to the URL shown in the terminal (usually `http://localho
 
 ---
 
-## 🔍 Research Agent (`duckduckgo_tool.py`)
+## 🔍 Research Agent (`task1.py`)
 
 A research assistant that searches the web using DuckDuckGo and provides summarized answers with source citations.
 
